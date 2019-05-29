@@ -1,2 +1,2 @@
 # solidity
-basic solidity code
+basic solidity based smart contracts for a blockchain based voting software
